@@ -1,0 +1,22 @@
+{
+    "education": [
+        {
+            "title": "Sept 2023",
+            "cardTitle": "Master of science in Information technology",
+            "cardSubtitle": "Concordia university of Edmonton",
+            "cardDetailedText": ""
+        },
+        {
+            "title": "jun 2016",
+            "cardTitle": "Bchelor's in Computer Engineerning",
+            "cardSubtitle": "Gujarat Technological University",
+            "cardDetailedText": "7.88 CGPA"
+        },
+        {
+            "title": "July 2013",
+            "cardTitle": "Diploma in Computer Engineerning",
+            "cardSubtitle": "Gujarat Technological University",
+            "cardDetailedText": "8.57"
+        }
+    ]
+}

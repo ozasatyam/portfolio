@@ -1,0 +1,15 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Monarch Innovation Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** Major product.", "developed web applications One with electorn js and other with react and typescript. Proficient in React, Redux, JavaScript, and other frontend tools",
+                "Skilled in integrating RESTful APIs, implementing authentication systems, and creating user-friendly interfaces"
+            ],
+            "dateText": "08/2021 – 08/2023"
+        }
+       
+    ]
+}
