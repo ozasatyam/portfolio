@@ -1,149 +1,90 @@
 {
-    "projects" : [
+    "projects": [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image": "images/projects/portfolio-poster.png",
             "title": "Satyam Oza Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "bodyText": "- Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/ozasatyam/portfolio.git"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "satyamo-portfolio.netlify.app/"
                 }
             ],
-            "tags" : [
+            "tags": [
                 "React",
                 "Portfolio",
                 "JavaScript"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image": "images/projects/caaring-poster.png",
+            "title": "NextHippo  -  NextJs 14",
+            "bodyText": "- Any one can buy and sell UI components.  Using next js 14, tyepscript created project to demonstate the skill.\n - Used TRPC, Mongodb, epxressJS, payload CRM API and shadcn/ui libraries to build this web site .\n - User name **demo@gmail.com** password **demo123**.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/ozasatyam/nextjs14Hippo.git"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://uikitperches.onrender.com"
                 }
             ],
-            "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
+            "tags": [
+                "NextJS",
+                "ReactJS",
                 "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "TRPC",
+                "Mongo DB",
+                "Process CRM API",
+                "shadcn/UI"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "NFT Certification",
+            "bodyText": "- Using web3 and NFT , we created NFT based cerificate that is used for ligitment. University can give the cerificate as NFT to the student NFT or crypto account, Used web3.js and react, bootstrap , firebase for authentication and eather js for communication with contact \n The perpose is legit certificate action any one can trust Thanks to NFT and web3 ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/ozasatyam/NFT-certificate-frontend.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://sparkly-faun-19993f.netlify.app/login"
                 }
             ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+            "tags": [
+                "NFT",
+                "Web3",
+                "Etherjs",
+                "React",
+                "Bootstrap",
+                "Firebase"
+            ]
+        },
+        {
+            "title": "Chat Web App",
+            "bodyText": "- A Web App that allows users to send texts in real time.\n - Uses **Firebase** database to store texts.\n - Secured with **Firebase auth",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ozasatyam/chatDemo.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://chitchatdemo.netlify.app/login"
+                }
+            ],
+            "tags": [
+                "React",
+                "Firebase",
+                "Fireastore",
+                "Tailwind"
             ]
         }
     ]

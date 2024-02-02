@@ -9,6 +9,21 @@
             "component": "Education",
             "path": "/education",
             "headerTitle": "Education"
+        },
+        {
+            "component": "Projects",
+            "path": "/projects",
+            "headerTitle": "Projects"
+        },
+        {
+            "component": "Skills",
+            "path": "/skills",
+            "headerTitle": "Skills"
+        },
+        {
+            "component": "Social",
+            "path": "/social",
+            "headerTitle": "Social"
         }
     ]
 }

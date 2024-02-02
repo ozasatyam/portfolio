@@ -5,11 +5,23 @@
             "subtitle": "Monarch Innovation Pvt Ltd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** Major product.", "developed web applications One with electorn js and other with react and typescript. Proficient in React, Redux, JavaScript, and other frontend tools",
-                "Skilled in integrating RESTful APIs, implementing authentication systems, and creating user-friendly interfaces"
+                "Integrated **2** Major product.",
+                "led React and Typescript development of an efficient e-commerce admin panel, collaborating with UI/UX designers for a user-friendly interface. Styled with SCSS and Bootstrap, ensuring modular CSS, and integrated RESTful APIs for seamless communication with backend systems.Implemented JWT token-based authentication, employed Redux for state management. Created Real time chatting using firabase  ",
+                "Created a cross-platform Desktop App using Electron.js, React, Redux, and Tailwind CSS for configurable gaming pad interfaces. Developed serial port communication with gaming devices, managing lights and sensitivity settings. Implemented a cloud-based logging system with Express.js, MySQL, and TypeORM, featuring automatic update functionality"
             ],
             "dateText": "08/2021 – 08/2023"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "BISAG Gandhinagar",
+            "workType": "Full-time",
+            "workDescription": [
+                "Led a team to design and implement a secure online marketplace.",
+                "Used Java Servlets for the backend , JavaScript for the frontend and Utilized Bootstrap for user interface design",
+                "Implemented session management ,cookies for sign-in authenticity",
+                "Enhanced password security with advanced hashing techniques"
+            ],
+            "dateText": "06/2018 – 04/2019"
         }
-       
     ]
 }
