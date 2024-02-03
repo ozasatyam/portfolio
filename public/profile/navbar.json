@@ -9,10 +9,7 @@
             "title": "Home",
             "href": "/"
         },
-        {
-            "title": "About",
-            "href": "/about"
-        },
+     
         {
             "title": "Skills",
             "href": "/skills"
@@ -31,7 +28,7 @@
         },
         {
             "title": "Resume",
-            "href": "https://1drv.ms/b/s!AlOMSzdU4qHLtiL5-ePeGCwSCC3E?e=g1TiTV",
+            "href": "https://1drv.ms/f/s!AlOMSzdU4qHLt0rW1jbapVGEfGYG?e=fCQJRu",
             "type": "link"
         }
     ]
