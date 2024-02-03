@@ -9,12 +9,16 @@
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon":"images/skills/typescript.png",
+                    "title":"Typescript"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo.png",
+                    "title": "MongoDB"
                 }
         ]},
         {
@@ -24,6 +28,16 @@
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
+                
+                {
+                    "icon": "images/skills/nextwhite.png",
+                    "title": "Next JS"
+                },
+                {
+                    "icon": "images/skills/electron.webp",
+                    "title": "Electron JS"
+                },
+                
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
@@ -36,6 +50,10 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 },
                 {
                     "icon": "images/skills/docker.png",

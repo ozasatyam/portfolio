@@ -24,6 +24,11 @@
             "component": "Social",
             "path": "/social",
             "headerTitle": "Social"
+        },
+        {
+            "component": "About",
+            "path": "/about",
+            "headerTitle": "About"
         }
     ]
 }
