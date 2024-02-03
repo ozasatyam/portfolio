@@ -1,4 +1,3 @@
-
 .App {
   text-align: center;
   align-items: center;
@@ -8,8 +7,115 @@
   flex-direction: row;
 }
 
+
+
+.circle.yel {
+  box-shadow: inset 0 0 30px 0 #fff, inset 20px 0 30px #ffd400,
+    inset -20px 0 30px red, inset 20px 0 300px #ff40d6,
+    inset -20px 0 300px #e3ff4b, 0 0 50px #fff, -10px 0 100px #fbff00,
+    10px 0 80px #f55;
+}
+
+.circle {
+  opacity: 1;
+  box-shadow: inset 0 0 30px #fff, inset 20px 0 30px #d7d938,
+    inset -20px 0 30px #ff3407, inset 4px 7px 300px #ff0c00,
+    inset -20px 0 300px #feff88, 0 0 50px #fff, -10px 0 80px #f0f,
+    10px 0 80px #0ff;
+}
+
+.circle {
+  width: 50px;
+  height: 50px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  bottom: 15%;
+  position: absolute;
+  -webkit-animation: linear infinite;
+  -webkit-animation-name: run;
+  -webkit-animation-duration: 5s;
+  background: #fff;
+}
+
+.elementor *,
+.elementor ::after,
+.elementor ::before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+div {
+  outline: none;
+}
+
+/* .elementor-widget-container {
+  will-change: transform;
+  transform: translateX(4.15485px) translateY(5px);
+} */
+
+*,
+::before,
+::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.elementor {
+  hyphens: manual;
+}
+
+@keyframes run {
+  0% {
+    transform: translateX(0.0019355px);
+  }
+
+  50% {
+    transform: translateX(10.0019355px);
+  }
+
+  100% {
+    transform: translateX(0.0019355px);
+  }
+}
+
+/* element.style {
+  will-change: transform;
+  transform: translateX(0.0019355px) translateY(5px);
+} */
+
+.dark-scheme,
+.dark-scheme .woo-cart_item_values p span,
+.dark-scheme .select-holder select,
+.dark-scheme .search-form .search-submit,
+.dark-scheme .woocommerce-product-search .search-submit,
+.dark-scheme p.subtitle,
+.dark-scheme .subtitle-font,
+.dark-scheme .heading .subtitle,
+.dark-scheme .site-footer,
+.dark-scheme .site-footer .site-info,
+.dark-scheme .site-footer .widgets a,
+.dark-scheme .pricing_list_item.disabled,
+.dark-scheme a.category {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.elementor-element {
+  position: absolute;
+  left: 55%;
+  top: 27%;
+}
+
 .navbar-custom {
-  font-size:large;
+
+  /* position the top  edge of the element at the middle of the parent */
+  left: 50%;
+  /* position the left edge of the element at the middle of the parent */
+
+  transform: translate(-15%, 20%);
+  font-size: large !important;
 }
 
 .navbar__link {
@@ -33,7 +139,7 @@
   width: 0;
 }
 
- .navbar__link:hover::after {
+.navbar__link:hover::after {
   visibility: visible;
   width: 40%;
 }
@@ -94,7 +200,7 @@ section.timeline-card-content p.card-sub-title {
   margin-top: 10px;
 }
 
-section.timeline-card-content div.card-description > p {
+section.timeline-card-content div.card-description>p {
   font-size: 1.1em;
   margin-top: 10px;
   font-weight: 500;
@@ -132,7 +238,7 @@ section.timeline-card-content div.card-description > p {
   .navbar__link--active::after {
     width: 0;
   }
-  
+
   .navbar__link--active:hover::after {
     width: 0;
   }
@@ -147,4 +253,3 @@ section.timeline-card-content div.card-description > p {
   font-weight: bold;
   margin-bottom: 25px;
 }
-
