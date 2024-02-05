@@ -6,12 +6,12 @@ import styled, { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
 // import ThemeToggler from './ThemeToggler';
 
-// const styles = {
-//   logoStyle: {
-//     width: 50,
-//     height: 40,
-//   },
-// };
+const styles = {
+  logoStyle: {
+    width: 50,
+    height: 40,
+  },
+};
 
 const ExternalNavLink = styled.a`
   color: ${(props) => props.theme.navbarTheme.linkColor};
@@ -59,7 +59,7 @@ const NavBar = () => {
       expanded={expanded}
     >
       <Container>
-        {/* {data?.logo && (
+        {data?.logo && (
           <Navbar.Brand href="/">
             <img
               src={data?.logo?.source}
@@ -72,7 +72,7 @@ const NavBar = () => {
               }
             />
           </Navbar.Brand>
-        )} */}
+        )}
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => setExpanded(!expanded)}

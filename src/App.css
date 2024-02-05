@@ -109,9 +109,11 @@ div {
 }
 
 .navbar-custom {
-  left: 50%;
-  transform: translate(-20%, 20%);
+   /* left: 50%; */
+  /* transform: translate(-20%, 20%); */
+  /* max-width: 65%; */
   font-size: large !important;
+
 }
 
 .navbar__link {
@@ -141,6 +143,8 @@ div {
 }
 
 .navbar__link--active::after {
+  /* display: block;
+  float: left; */
   transition: all ease-in-out .2s;
   width: 100%;
 }
