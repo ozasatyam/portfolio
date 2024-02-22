@@ -3,7 +3,7 @@
         {
             "image": "images/projects/portfolio.png",
             "title": "Satyam Oza Portfolio",
-            "bodyText": "- Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "bodyText": "- Portfolio Website made in React\n -  Fully customizable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "satyamo-portfolio.netlify.app/"
+                    "href": "https://satyamo-portfolio.vercel.app"
                 }
             ],
             "tags": [
@@ -23,7 +23,7 @@
         {
             "image": "images/projects/hippo.png",
             "title": "NextHippo  -  NextJs 14",
-            "bodyText": "- Any one can buy and sell UI components.  Using next js 14, tyepscript created project to demonstate the skill.\n - Used TRPC, Mongodb, epxressJS, payload CRM API and shadcn/ui libraries to build this web site .\n - User name **demo@gmail.com** password **demo123**.",
+            "bodyText": "- Any one can buy and sell UI components.  Using next js 14, typescript created project to demonstrate the skill.\n - Used TRPC, Mongodb, expressJS, payload CRM API and shadcn/ui libraries to build this web site .\n login as seller,https://uikitperches.onrender.com/sell  - User name **demo@gmail.com** password **demo123**.",
             "links": [
                 {
                     "text": "GitHub",
@@ -47,7 +47,7 @@
         {
             "image": "images/projects/nft.png",
             "title": "NFT Certification",
-            "bodyText": "- Using web3 and NFT , we created NFT based cerificate that is used for ligitment. University can give the cerificate as NFT to the student NFT or crypto account, Used web3.js and react, bootstrap , firebase for authentication and eather js for communication with contact \n The perpose is legit certificate action any one can trust Thanks to NFT and web3 ",
+            "bodyText": "- Using web3 and NFT , we created NFT based certificate that is used for ligament. University can give the certificate as NFT to the student NFT or crypto account, Used web3.js and react, bootstrap , firebase for authentication and Eatherjs for communication with contact \n The purpose is legit certificate action any one can trust Thanks to NFT and web3 ",
             "links": [
                 {
                     "text": "GitHub",
